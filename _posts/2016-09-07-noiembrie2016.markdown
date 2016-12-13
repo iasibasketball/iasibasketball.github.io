@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Program Luna Decembrie"
+date: 2016-09-07
+categories:
+  - Program
+description: 
+image: https://images.unsplash.com/photo-1474224017046-182ece80b263
+image-sm: https://images.unsplash.com/photo-1474224017046-182ece80b263
+comments: true
+---
+### Program Luna Decembrie
+
+---
+### TUR
+luni 31.10	20.00 - 21.30	**Ghica (c)** - A Team &nbsp;&nbsp;&nbsp;&nbsp;  ``` --- Ghica. Cu multe peste 20 pct ```  
+luni 31.10	21.30 - 23.00	**MF(C)** -	Pitt Team  ``` --- MF cu mai multe peste 20 pct :))) ```   
+marti 01.11	20.00 - 21.30	**Old Boys** - Old Boys  ``` --- Old Boy`s la 2 puncte, meci echilibrat si frumos ```  
+joi 03.11	20.00 - 21.30	**Ghica (c)** - Pitt Team  ``` --- Ghica cu peste 50 pct ```  
+joi 03.11	21.30 - 23.00	A Team - **Old Boy's**  ``` --- old boys ```  
+luni 7.11	20.00 - 21.30	Pitt - **Team	A Team**  ``` --- A Team ```  
+luni 7.11	21.30 - 23.00	Old Boy's - **Ghica (c)**  ``` --- Ghica. Cu multe peste 13 pct /// Au fost doar 7 puncte. Old Boys in 5 oameni. ```  
+marti 08.11	20.00 - 21.30	A Team - **MF(C)**  ``` --- MF ```  
+joi 10.11	20.00 -21.30	**MF(C)** - Ghica (c)  ``` --- MF ```  
+joi 10.11	21.30 - 23.00	**Old Boys** - Pitt Team  ``` --- Old Boys ```  
+
+### RETUR     	
+luni 14.11	20.00 - 21.30	Ghica (c)	A Team  
+luni 14.11	21.30 - 23.00	Old Boys	Pitt Team  
+marti 15.11	20.00 - 21.30	Ghica (c)	MF(C)  
+joi 17.11	20.00 - 21.30	Pitt Team	MF(C)  
+joi 17.11	21.30 - 23.00	A Team	Old Boy's  
+luni	20.00 - 21.30	Pitt Team	A Team  
+luni	21.30 - 23.00	Old Boy's	Ghica (c)  
+marti	20.00 - 21.30	A Team	MF(C)  
+joi	20.00 -21.30	Old Boy's	MF(C)  
+joi	21.30 - 23.00	Pitt Team	Ghica (c) 
+--- 
+--- 			
+### TUR		
+luni 28.11	20.00 - 21.30	Ghica (c) - A Team  
+luni 28.11	21.30 - 23.00	MF(C)	Pitt Team  
+marti 29.11	20.00 - 21.30	Old Boys	MF(C)  
+joi 01.12	20.00 - 21.30	Ghica (c)	Pitt Team  
+joi 01.12	21.30 - 23.00	A Team	Old Boy's  
+luni 05.12	20.00 - 21.30	Pitt Team	A Team  
+luni 05.12	21.30 - 23.00	Old Boy's	Ghica (c)  
+marti 06.12	20.00 - 21.30	A Team	MF(C)  
+joi 08.12	20.00 -21.30	MF(C)	Ghica (c)  
+joi 08.12	21.30 - 23.00	Old Boys	Pitt Team  
+
+### RETUR 			
+luni 12.12	20.00 - 21.30	Ghica (c)	A Team  
+luni 12.12	21.30 - 23.00	Old Boys	Pitt Team  
+marti 13.12	20.00 - 21.30	Pitt Team	MF(C)  
+joi 15.12	20.00 - 21.30	Ghica (c)	MF(C)  
+joi 15.12	21.30 - 23.00	A Team	Old Boy's  
+luni 19.12	20.00 - 21.30	Pitt Team	A Team  
+luni 19.12	21.30 - 23.00	Old Boy's	Ghica (c)  
+marti 20.12	20.00 - 21.30	A Team	MF(C)  
+joi 22.12	20.00 -21.30	Old Boy's	MF(C)  
+joi 22.12	21.30 - 23.00	Pitt Team	Ghica (c)  
+---

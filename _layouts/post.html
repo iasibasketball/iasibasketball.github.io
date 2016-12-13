@@ -23,6 +23,10 @@ layout: default
 
   <section class="section-padding post" itemprop="articleBody">
     {{ content }}
+
+    {% if site.disqus and page.comments %}
+      {% include disqus.html %}
+    {% endif %}
   </section>
 
   <section class="profile">

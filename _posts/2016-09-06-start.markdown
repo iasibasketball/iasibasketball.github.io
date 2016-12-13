@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Cadou de Craciun"
+date: 2016-12-12
+categories:
+  - Diverse
+description: oleeee
+image: https://images.unsplash.com/photo-1474859740426-f0db7f4f5d3e
+image-sm: https://images.unsplash.com/photo-1474859740426-f0db7f4f5d3e
+comments: true
+---
+### Salut...   
+
+Acum ceva timp am facut acel document in Google drive care ne-a ajutat sa tinem scorul si sa comentam meciurile din campionatul nostru.  
+
+Chiar daca eu am plecat din Iasi am urmarit cu interes rezultatele si comentariile fiecarui meci(cu parere de rau am observat ca multe comentarii se rezuma la a descrie duritatile din timpul meciurile... dar asta e alta discutie).
+
+Pentru ca imi face placere sa citesc comentariile prietenilor mei din Iasi, comentarii pertinente, comentarii ironice, comentarii sarcastice sau de orice alta natura ar fi ele, am hotarat sa fac aces mic blog unde sa putem urmari intr-un mod usor si modern
+programul competiei de baschet din orasul nostru.
+
+Imi doresc sa devina locul unde se intalnesc toti pasionatii de baschet din Iasi si nu numai si unde vom putea urmari si comenta (sau lauda) toate meciurile planificate de-a lungul intregului an
+
+O sa fie nevoie de o persoana sau mai multe sa intre, sa adauge si sa modifice posturile pentru fiecare meci sau editie noua de campionat.
+
+Astept cu interes comentarii si feedback.
+<i class="fa fa-thumbs-o-up fa-spin fa-2x"></i> &nbsp;
+

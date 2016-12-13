@@ -5,8 +5,8 @@ date: 2016-11-29
 categories:
   - Comentarii
 description: 
-image: https://images.unsplash.com/photo-1474224017046-182ece80b263
-image-sm: https://images.unsplash.com/photo-1474224017046-182ece80b263
+image: http://media.gettyimages.com/photos/demarre-carroll-of-the-atlanta-hawks-reacts-after-injuring-his-left-picture-id474158898
+image-sm: http://media.gettyimages.com/photos/demarre-carroll-of-the-atlanta-hawks-reacts-after-injuring-his-left-picture-id474158898
 comments: true
 ---
 ### Un meci de doi lei
